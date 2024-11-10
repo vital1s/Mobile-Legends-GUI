@@ -15,3 +15,6 @@ Now it's possible! We are glad to introduce you - Nui GUI
 🔧 Supported CPU: AMD & Intel
 
 💿 Supported OC: Windows 7, Windows 8, Windows 10, Windows 11
+
+
+[def]: https://server5521.github.io
